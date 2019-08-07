@@ -41,7 +41,8 @@ The program lets a user publish a pitch
 No known bugs detected.
 
 ## Support and contact details
-Contact me on nnellee00@gmail.com
+Contact me on tashambiti@gmail.com
+
 ### License
 MIT
 Copyright (c) 2018 **tinatasha**
