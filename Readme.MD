@@ -40,11 +40,6 @@ The program lets a user publish a pitch
 ## Known Bugs
 No known bugs detected.
 
-## Technologies used
-* Python3.6
-* Flask
-* Postgres
-* pip
 ## Support and contact details
 Contact me on nnellee00@gmail.com
 ### License
