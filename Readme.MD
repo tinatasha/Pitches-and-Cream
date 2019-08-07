@@ -1,4 +1,4 @@
-# Pitches&Cream.
+# Pitches&Cream
 
 ## Description
 This is an application that allows users to pitch and for others users to votes and add pitches of their own.
