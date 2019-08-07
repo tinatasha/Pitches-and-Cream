@@ -21,13 +21,15 @@ The program lets a user publish a pitch
 * HTML
 * CSS
 
-## Setup/Installation Requirements
+## Setup & Installation
 * download the zip file
 * unzip it on your documents folder
 * open the folder on your preferred text/code editor
 * code away
+
 ## Known Bugs
-None
+
+
 ## Technologies used
 * Python3.6
 * Flask
