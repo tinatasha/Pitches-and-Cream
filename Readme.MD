@@ -1,7 +1,7 @@
 # Pitches&Cream
 
 
-#### This is an application that allows users to write down a short pitch and have other users read them, November 16, 2018
+#### This is an application that allows users to
 
 
 ## Description
