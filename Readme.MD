@@ -18,9 +18,8 @@ The program lets a user publish a pitch
 
 ## Technologies used
 * Python
-* Pip
-* Flask
-* Postgres
+* HTML
+* CSS
 
 ## Setup/Installation Requirements
 * download the zip file
