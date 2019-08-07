@@ -3,9 +3,6 @@
 ## Description
 This is an application that allows users to pitch and for others users to votes and add pitches of their own.
 
-
-## Description
-This is an application that allows users to create an account then publish and read pitches created by other users. Users can also comment on pitches if they are logged in.
 ## BDD
 The program lets a user register
 * Example input: Submit registration form
